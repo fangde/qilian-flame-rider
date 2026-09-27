@@ -1,0 +1,11 @@
+{
+  "source": "夜走祁连山_MV_丹霞卡通版.blend",
+  "assets": [
+    "war-rig.glb",
+    "escort.glb",
+    "danxia.glb",
+    "horse.glb"
+  ],
+  "coordinate_system": "glTF Y-up, vehicle forward -Z",
+  "source_geometry": true
+}
