@@ -9,4 +9,4 @@ A/D or arrows: steer. W/S: speed. Space: guitar flame. Shift: boost. Mouse or Q/
 
 Click Start to enable music. Touch controls are available on mobile.
 
-Three.js license: vendor/LICENSE. Models and soundtrack are project assets; no additional reuse license is granted.
+Three.js license: vendor/THREE-LICENSE.txt. Models and soundtrack are project assets; no additional reuse license is granted.
